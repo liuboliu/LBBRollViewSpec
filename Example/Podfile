@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'LBRollingView_Example' do
+  pod 'LBRollingView', :path => '../'
+
+  target 'LBRollingView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
