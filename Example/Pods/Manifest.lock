@@ -1,0 +1,16 @@
+PODS:
+  - LBRollingView (0.1.0)
+
+DEPENDENCIES:
+  - LBRollingView (from `../`)
+
+EXTERNAL SOURCES:
+  LBRollingView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LBRollingView: 9067105c01df9d2d18582e2d4930392a483686e9
+
+PODFILE CHECKSUM: 4399064b3c34b3bb25dc9c04ee780bf6c300d0e7
+
+COCOAPODS: 1.10.1

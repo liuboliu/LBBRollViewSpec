@@ -1,0 +1,6 @@
+framework module Pods_LBRollingView_Example {
+  umbrella header "Pods-LBRollingView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
